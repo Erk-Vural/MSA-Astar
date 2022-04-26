@@ -1,0 +1,16 @@
+{
+    "scores": {
+        "match": 0 ,
+        "gap": 2 ,
+        "sub": 3
+    },
+
+    "genetic3d": {
+        "nr_eachGen": 50,
+        "nr_gen": 300,
+        "poss_xyz": 0.7,
+        "poss_xy": 0.06,
+        "poss_mut": 0.0003,
+        "poss_cross": 0.8
+    }
+}
